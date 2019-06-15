@@ -1,0 +1,7 @@
+.python-version
+.idea
+factcache
+.DS_Store
+*.retry
+_*
+*.swp
